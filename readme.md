@@ -9,7 +9,7 @@ Quick and easy WiFi network filtering when you are in crowded area. You can swit
 
 Get it from Xposed repo: [http://repo.xposed.info/module/com.datanasov.com.datanasov.wififilter](repo.xposed.info/module/com.datanasov.com.datanasov.wififilter)
 
-XDA thread:
+XDA thread: [http://forum.xda-developers.com/xposed/modules/mod-wifi-filter-t3220775](http://forum.xda-developers.com/xposed/modules/mod-wifi-filter-t3220775)
 
 ## Limitations
 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_filter_items">
+        <item>@string/show_all</item>
+        <item>@string/show_saved</item>
+        <item>@string/show_open</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wi-Fi Filter</string>
+    <string name="app_desc">Jednoduché filtrovanie Wi-Fi sietí</string>
+    <string name="show_all">Zobraziť všetky siete</string>
+    <string name="show_saved">Zobraziť uložené siete</string>
+    <string name="show_open">Zobraziť otvorené siete</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi Filter</string>
+    <string name="show_all">Alle</string>
+    <string name="show_open">Gespeicherte Netwerke</string>
+    <string name="show_saved">Offene Netzwerke</string>
+    <string name="app_desc">Easy WiFi network filtering</string>
+</resources>

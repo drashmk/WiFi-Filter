@@ -5,6 +5,8 @@
 Quick and easy WiFi network filtering when you are in crowded area. You can switch to see all, just saved or open networks.
 
 [![WiFi Filter](http://i.imgur.com/Do6CBb6m.png)](http://i.imgur.com/Do6CBb6.png)
+[![WiFi Filter](http://i.imgur.com/wuEQpdHm.png)](http://i.imgur.com/wuEQpdH.png)
+
 ## Download
 
 Get it from Xposed repo: [http://repo.xposed.info/module/com.datanasov.wififilter](http://repo.xposed.info/module/com.datanasov.wififilter)
@@ -13,9 +15,9 @@ XDA thread: [http://forum.xda-developers.com/xposed/modules/mod-wifi-filter-t322
 
 ## Limitations
 
-Currently works on AOSP Lollipop ROMs, it will be really cool if it will work on others also (Touchwiz, Sense, Android 4+).
+Requires Android 4.1+. Works best on AOSP ROMs, but it should also work fine on Touchwiz, Sense, LG UI,...
 
-Pull request is appreciated.
+Please report issues on the XDA thread.
 
 ## You like my work?
 

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WiFi Filter</string>
+    <string name="app_desc">Простая фильтрация WiFi сетей</string>
+    <string name="show_all">Отображать всё</string>
+    <string name="show_saved">Отображать сохраненные сети</string>
+    <string name="show_open">Отображать открытые сети</string>
+</resources>

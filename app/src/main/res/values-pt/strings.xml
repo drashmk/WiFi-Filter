@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wi-Fi Filter</string>
+    <string name="app_desc">Filtro fácil para redes WiFi</string>
+    <string name="show_all">Mostrar todos</string>
+    <string name="show_saved">Mostrar redes salvas</string>
+    <string name="show_open">Mostrar redes abertas</string>
+</resources>

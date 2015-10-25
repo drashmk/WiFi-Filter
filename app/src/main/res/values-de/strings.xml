@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">WiFi Filter</string>
     <string name="show_all">Alle</string>
-    <string name="show_open">Gespeicherte Netwerke</string>
-    <string name="show_saved">Offene Netzwerke</string>
-    <string name="app_desc">Easy WiFi network filtering</string>
+    <string name="show_open">Offene Netwerke</string>
+    <string name="show_saved">Gespeicherte Netzwerke</string>
+    <string name="app_desc">Einfache Filterung von WLAN-Netzwerken</string>
 </resources>
